@@ -5,7 +5,7 @@ Pure React 19 + Tailwind 4 template with shadcn/ui baked in. **Use this README a
 > **Note:** This template includes a minimal `shared/` and `server/` directory with placeholder types to support imported templates. These are just compatibility placeholders - web-static remains a true static-only template without API functionality.
 
 ---
-
+ 
 ## Stack Overview
 - Client-only routing powered by React + Wouter.
 - Design tokens live entirely in `client/src/index.css`—keep that file intact.
